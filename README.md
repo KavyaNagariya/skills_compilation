@@ -22,6 +22,7 @@ The repository is structured to support different levels of complexity and modul
 │   ├── engineering/
 │   ├── ponytail/
 │   ├── productivity/
+│   ├── pstack/
 │   └── science/
 └── different_skills/           # Complex, multi-file capabilities
     ├── last30days/
@@ -48,6 +49,7 @@ The repository is structured to support different levels of complexity and modul
 | **`modern-web-guidance-plugin`** | Google Chrome | Guidelines, compatibility lists, and optimization best practices for modern web applications. |
 | **`ponytail`** | Google Systems | Code auditing and optimization tools to eliminate over-engineering across multiple intensity levels. |
 | **`productivity`** | Google | Hand-off, teaching, and writing assistance tools to optimize human-agent alignment. |
+| **`pstack`** | Lauren Tan (@poteto) | Rigorous depth-first agent workflows, engineering principles, verification, and high-quality parallelism. |
 | **`science`** | Google Science | Integrations for biological and scientific databases (AlphaFold, ChEMBL, dbSNP, Ensembl, GTEx, HPA, InterPro, JASPAR, PDB, PubChem, PubMed, Reactome, STRING, UniProt). |
 
 ---
@@ -135,6 +137,19 @@ Skills are categorized below by their primary domain. Each skill contains trigge
 * [ponytail-gain](file:///C:/repositories/skills-record/plugins/ponytail/skills/ponytail-gain/SKILL.md) - Displays measured gains (less code, faster execution, lower cost).
 * [ponytail-help](file:///C:/repositories/skills-record/plugins/ponytail/skills/ponytail-help/SKILL.md) - Command reference and auditing intensity descriptions.
 * [ponytail-review](file:///C:/repositories/skills-record/plugins/ponytail/skills/ponytail-review/SKILL.md) - Run PR audits to keep code additions clean and minimal.
+
+### 🥔 Depth-First & High-Quality Engineering (pstack)
+* [architect](file:///C:/repositories/skills-record/plugins/pstack/skills/architect/SKILL.md) - Sketch types, signatures, and module boundaries before implementation.
+* [blast-radius](file:///C:/repositories/skills-record/plugins/pstack/skills/blast-radius/SKILL.md) - Quantify and mitigate the reach and regression risk of proposed changes.
+* [create-formal-verification-skill](file:///C:/repositories/skills-record/plugins/pstack/skills/create-formal-verification-skill/SKILL.md) - Generate a project-local skill that formally verifies invariants and race conditions.
+* [figure-it-out](file:///C:/repositories/skills-record/plugins/pstack/skills/figure-it-out/SKILL.md) - Autonomous debugging workflow for resolving tricky issues systematically.
+* [how](file:///C:/repositories/skills-record/plugins/pstack/skills/how/SKILL.md) - Subsystem architecture, runtime flow walkthroughs, and ownership questions.
+* [maintain-formal-verification-skill](file:///C:/repositories/skills-record/plugins/pstack/skills/maintain-formal-verification-skill/SKILL.md) - Bring formal verification models back in sync after code changes.
+* [no-comments](file:///C:/repositories/skills-record/plugins/pstack/skills/no-comments/SKILL.md) - Clean up trivial, redundant, or explanatory code comments before review.
+* [technical-writing](file:///C:/repositories/skills-record/plugins/pstack/skills/technical-writing/SKILL.md) - Diátaxis structure, Google developer style, and simplified technical english rules.
+* [typescript-best-practices](file:///C:/repositories/skills-record/plugins/pstack/skills/typescript-best-practices/SKILL.md) - Rigorous TypeScript idioms and strict typing guidelines.
+* [unslop](file:///C:/repositories/skills-record/plugins/pstack/skills/unslop/SKILL.md) - Strip out AI-generated slop, over-engineering, unnecessary abstractions, and boilerplate.
+* [why](file:///C:/repositories/skills-record/plugins/pstack/skills/why/SKILL.md) - Query multi-source evidence to explain design decisions and tradeoffs.
 
 ---
 
