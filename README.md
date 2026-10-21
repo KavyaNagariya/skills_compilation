@@ -18,6 +18,7 @@ The repository is structured to support different levels of complexity and modul
 │   ├── frontend-design/
 │   └── impeccable/
 ├── plugins/                    # Domain-specific plugin bundles
+│   ├── anatomy/
 │   ├── android-cli-plugin/
 │   ├── engineering/
 │   ├── ponytail/
@@ -41,6 +42,7 @@ The repository is structured to support different levels of complexity and modul
 
 | Plugin | Author/Team | Description |
 | :--- | :--- | :--- |
+| **`anatomy`** | Ryan Montgomery (@wheresryan22) | Build crafted, highly detailed, interactive isometric SVG figures explaining technical ideas as real physical objects. |
 | **`android-cli-plugin`** | Android Developer Tools | Orchestrates Android development tasks (project creation, SDK management, device/emulator diagnostics). |
 | **`chrome-devtools-plugin`** | Chrome DevTools Team | Tools and strategies for web inspecting, debugging, and profiling. |
 | **`engineering`** | Google Engineering | Deep developer workflows, triage machines, codebase design heuristics, and wayfinding strategies. |
@@ -59,6 +61,7 @@ The repository is structured to support different levels of complexity and modul
 Skills are categorized below by their primary domain. Each skill contains trigger conditions defined in its YAML frontmatter to allow agentic discovery.
 
 ### 🎨 UI/UX & Frontend Aesthetics
+* [anatomy](file:///C:/repositories/skills-record/plugins/anatomy/skills/anatomy/SKILL.md) - Build crafted, highly detailed, interactive isometric SVG figures that explain a technical idea as a real physical object.
 * [create-readme](file:///C:/repositories/skills-record/skills/create-readme/SKILL.md) - Author comprehensive and well-structured project README files.
 * [frontend-design](file:///C:/repositories/skills-record/skills/frontend-design/SKILL.md) - Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one.
 * [impeccable](file:///C:/repositories/skills-record/skills/impeccable/SKILL.md) - Distill, harden, optimize, adapt, animate, colorize, or improve a frontend interface.

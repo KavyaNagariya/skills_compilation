@@ -1,0 +1,20 @@
+{
+    "repository":  "https://github.com/wheresryan22/anatomy",
+    "license":  "MIT",
+    "keywords":  [
+                     "anatomy",
+                     "isometric",
+                     "svg",
+                     "interactive",
+                     "diagrams",
+                     "explainers"
+                 ],
+    "name":  "anatomy",
+    "description":  "Build crafted, highly detailed, interactive isometric SVG figures that explain a technical idea as a real physical object",
+    "version":  "1.1.0",
+    "author":  {
+                   "name":  "Ryan Montgomery",
+                   "url":  "https://github.com/wheresryan22"
+               },
+    "homepage":  "https://github.com/wheresryan22/anatomy"
+}
