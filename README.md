@@ -16,12 +16,13 @@ The repository is structured to support different levels of complexity and modul
 ├── skills/                     # Standalone core capabilities
 │   ├── create-readme/
 │   ├── frontend-design/
-│   └── impeccable/
+│   ├── impeccable/
+│   ├── ponytail/
+│   └── security-audit/
 ├── plugins/                    # Domain-specific plugin bundles
 │   ├── anatomy/
 │   ├── android-cli-plugin/
 │   ├── engineering/
-│   ├── ponytail/
 │   ├── productivity/
 │   ├── pstack/
 │   └── science/
@@ -49,7 +50,6 @@ The repository is structured to support different levels of complexity and modul
 | **`firebase`** | Google Firebase | Integration and project management utilities for Google Firebase backend services. |
 | **`google-antigravity-sdk`** | Google SDK Team | Core development resources, API details, and instructions for Google Antigravity SDK. |
 | **`modern-web-guidance-plugin`** | Google Chrome | Guidelines, compatibility lists, and optimization best practices for modern web applications. |
-| **`ponytail`** | Google Systems | Code auditing and optimization tools to eliminate over-engineering across multiple intensity levels. |
 | **`productivity`** | Google | Hand-off, teaching, and writing assistance tools to optimize human-agent alignment. |
 | **`pstack`** | Lauren Tan (@poteto) | Rigorous depth-first agent workflows, engineering principles, verification, and high-quality parallelism. |
 | **`science`** | Google Science | Integrations for biological and scientific databases (AlphaFold, ChEMBL, dbSNP, Ensembl, GTEx, HPA, InterPro, JASPAR, PDB, PubChem, PubMed, Reactome, STRING, UniProt). |
@@ -134,12 +134,12 @@ Skills are categorized below by their primary domain. Each skill contains trigge
 * [workflow-skill-creator](file:///C:/repositories/skills-record/plugins/science/skills/workflow_skill_creator/SKILL.md) - Re-package completed science workflows into reusable skill templates.
 
 ### 🧹 Code Auditing & Optimisation (Ponytail)
-* [ponytail](file:///C:/repositories/skills-record/plugins/ponytail/skills/ponytail/SKILL.md) - Switch ponytail auditing level (lite, full, ultra, off).
-* [ponytail-audit](file:///C:/repositories/skills-record/plugins/ponytail/skills/ponytail-audit/SKILL.md) - Audit the entire codebase for over-engineering and dead code.
-* [ponytail-debt](file:///C:/repositories/skills-record/plugins/ponytail/skills/ponytail-debt/SKILL.md) - Trace and measure accumulated architectural debt.
-* [ponytail-gain](file:///C:/repositories/skills-record/plugins/ponytail/skills/ponytail-gain/SKILL.md) - Displays measured gains (less code, faster execution, lower cost).
-* [ponytail-help](file:///C:/repositories/skills-record/plugins/ponytail/skills/ponytail-help/SKILL.md) - Command reference and auditing intensity descriptions.
-* [ponytail-review](file:///C:/repositories/skills-record/plugins/ponytail/skills/ponytail-review/SKILL.md) - Run PR audits to keep code additions clean and minimal.
+* [ponytail](file:///C:/repositories/skills-record/skills/ponytail/SKILL.md) - Switch ponytail auditing level (lite, full, ultra, off).
+* [ponytail-audit](file:///C:/repositories/skills-record/skills/ponytail-audit/SKILL.md) - Audit the entire codebase for over-engineering and dead code.
+* [ponytail-debt](file:///C:/repositories/skills-record/skills/ponytail-debt/SKILL.md) - Trace and measure accumulated architectural debt.
+* [ponytail-gain](file:///C:/repositories/skills-record/skills/ponytail-gain/SKILL.md) - Displays measured gains (less code, faster execution, lower cost).
+* [ponytail-help](file:///C:/repositories/skills-record/skills/ponytail-help/SKILL.md) - Command reference and auditing intensity descriptions.
+* [ponytail-review](file:///C:/repositories/skills-record/skills/ponytail-review/SKILL.md) - Run PR audits to keep code additions clean and minimal.
 
 ### 🥔 Depth-First & High-Quality Engineering (pstack)
 * [architect](file:///C:/repositories/skills-record/plugins/pstack/skills/architect/SKILL.md) - Sketch types, signatures, and module boundaries before implementation.
@@ -153,6 +153,9 @@ Skills are categorized below by their primary domain. Each skill contains trigge
 * [typescript-best-practices](file:///C:/repositories/skills-record/plugins/pstack/skills/typescript-best-practices/SKILL.md) - Rigorous TypeScript idioms and strict typing guidelines.
 * [unslop](file:///C:/repositories/skills-record/plugins/pstack/skills/unslop/SKILL.md) - Strip out AI-generated slop, over-engineering, unnecessary abstractions, and boilerplate.
 * [why](file:///C:/repositories/skills-record/plugins/pstack/skills/why/SKILL.md) - Query multi-source evidence to explain design decisions and tradeoffs.
+
+### 🔒 Security & Vulnerability Auditing
+* [security-audit](file:///C:/repositories/skills-record/skills/security-audit/SKILL.md) - Security guidance and vulnerability review for codebases, APIs, services, CLI tools, libraries, and daemons.
 
 ---
 
